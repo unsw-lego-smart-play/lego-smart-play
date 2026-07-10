@@ -9,6 +9,8 @@ A repositry for researching the Lego Smart Play system
   - 🟥 Try change random bytes without decrypting
   - 🟥 Try find patterns between data
   - 🟥 Try decode NFC
+- 🟥 Understand BrickNet
+  - 🟥 Find which tags create BrickNet actions
 - 🟥 Get Brick Firmware
 
 ## Contents
