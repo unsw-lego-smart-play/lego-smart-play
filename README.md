@@ -3,9 +3,13 @@ A repositry for researching the Lego Smart Play system
 
 ## Progress
 - ✅ Acquire Lego Sets
-- 🟡 [Clone Smart Tag](Progress/clone_smart_tag)
 - 🟡 [Literature Review](Literature-Review)
-- 🟥 Edit Smart Tag Data
+- 🟡 [Clone Smart Tag](Progress/clone_smart_tag)
+- 🟥 Create Custom Sounds
+  - 🟥 Try change random bytes without decrypting
+  - 🟥 Try find patterns between data
+  - 🟥 Try decode NFC
+- 🟥 Get Brick Firmware
 
 ## Contents
 - [Literature Review](Literature-Review)
